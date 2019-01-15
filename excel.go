@@ -23,6 +23,9 @@ const BoldCurrencyStyle = `{"number_format": 169, "font":{"bold":true}}`
 // DateStyle defines a style for date cells
 const DateStyle = `{"custom_number_format": "dd mmm yyyy"}`
 
+// AlignRightStyle aligns text right
+const AlignRightStyle = `{"font": {"align": "right"}}`
+
 const defaultSheetName = "Sheet1"
 const errorSheetName = "Errors"
 const defaultHeadingRow = 1
